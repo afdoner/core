@@ -1,0 +1,14 @@
+{
+  "domain": "hello_state",
+  "name": "hello_world",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/hello_state",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@afdoner"
+  ]
+}

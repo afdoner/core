@@ -75,6 +75,7 @@ FLOWS = [
     "guardian",
     "hangouts",
     "harmony",
+    "hello_state",
     "heos",
     "hisense_aehw4a1",
     "hlk_sw16",
